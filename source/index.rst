@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to ws110's documentation!
+欢迎来到 WS110钻孔设计系统文档!
 =================================
 
 .. toctree::
@@ -14,9 +14,3 @@ Welcome to ws110's documentation!
 
 
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
