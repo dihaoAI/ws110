@@ -7,10 +7,10 @@
 =================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 3
+   :glob:
 
-   ws110.md
-
-
+   0_/index
+   1_/index
+   2_/index
 
