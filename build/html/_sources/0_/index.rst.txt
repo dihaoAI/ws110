@@ -2,9 +2,9 @@
 WS110简介
 =================================
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :glob:
 
-   0_/index
-   1_/index
-   2_/index
+   0_/contents
+   1_/contents
+   2_/contents
