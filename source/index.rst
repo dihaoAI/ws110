@@ -89,6 +89,7 @@ WS110访问地址：http://www.ws110.net
    :caption: 联系我们
 
    contact/index.rst
+   contact/qr.rst
 
 
 
